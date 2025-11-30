@@ -19,7 +19,7 @@ The use of reset.css and some CSS was inspired by the WAD100 course. Here are th
 
 ### Previous assignments
 
-The majority of the code is from the Mdoule 5 assignment since that is the expectation for this assignment. I did make some minor improvements -- since I needed to move the API call to the json file into the App.jsx file, I pulled it our of the Shop.jsx file and now that data is passed as a prop to Shop.jsx.
+The majority of the code is from the Module 5 assignment since that is the expectation for this assignment. I did make some minor improvements -- since I needed to move the API call to the json file into the App.jsx file, I pulled it our of the Shop.jsx file and now that data is passed as a prop to Shop.jsx.
 
 ### Previous experience
 
