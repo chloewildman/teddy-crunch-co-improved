@@ -58,6 +58,7 @@ As a note, the assignment references the "Home" page. Since part of my effort to
 
 ## How My Project Exceeds Minimum Requirements
 - I designed an SPA which contains multiple React pages using BrowserRouter with functional links.
+- I included the wildcard route.
 - Each page consists of main content that React can swap out, but the header and footer are also reusable components.
 - The site has a clear theme centered around a snack store with a teddy bear mascot.
 - I hosted on Github Pages.
