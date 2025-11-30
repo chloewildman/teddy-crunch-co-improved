@@ -8,7 +8,7 @@ As a note, there are two elements included that appear clickable but are not. Th
 
 ## Inspiration/Acknowledgements/Previous Experience
 
-### Module 5 reading
+### Module 6 reading
 
 I referenced the module 6 reading "Dynamic Routing with URL Parameters" to set up the deep links.
 
